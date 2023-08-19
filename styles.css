@@ -254,3 +254,12 @@ h1 {
     font-size: 0.8rem;
     font-weight: 200;
 }
+.notFound{
+    display: none;
+    width: 80%;
+    max-width: 300px;
+}
+
+.notFound.active{
+    display: block;
+}
