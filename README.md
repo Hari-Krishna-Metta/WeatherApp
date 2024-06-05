@@ -17,7 +17,7 @@ weather.
 
 Home Page
 
-![Uploading Screenshot 2024-06-05 203448.png…]()
+![Screenshot 2024-06-05 203448](https://github.com/Hari-Krishna-Metta/WeatherApp/assets/135844434/59ecb360-cf95-4190-ac24-d30892a8d5a3)
 
 
 ## 💻 Tech Stack:
