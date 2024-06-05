@@ -25,6 +25,9 @@ My Location
 
 Other Location
 
+![Screenshot 2024-06-05 203552](https://github.com/Hari-Krishna-Metta/WeatherApp/assets/135844434/f91b2bc7-2950-41f7-b392-2af194e22028)
+
+![Screenshot 2024-06-05 203614](https://github.com/Hari-Krishna-Metta/WeatherApp/assets/135844434/ef784764-909e-4536-9246-1d703d180ab7)
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
