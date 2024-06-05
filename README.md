@@ -17,7 +17,7 @@ weather.
 
 Home Page
 
-![Home] ![Uploading Screenshot 2024-06-05 203448.png…]()
+![Uploading Screenshot 2024-06-05 203448.png…]()
 
 
 ## 💻 Tech Stack:
